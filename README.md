@@ -7,5 +7,5 @@ Um Repositório para arquivar todos os Snippets de código para ter rápido aces
 
 # TODO
 
-[] - Create documentation of Register Logs 
-[] - Create documentation of Slugify
+- [] Create documentation of Register Logs 
+- [] Create documentation of Slugify
